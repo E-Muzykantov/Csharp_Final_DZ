@@ -3,7 +3,6 @@ Console.Clear();
 
 string[] stringArray;
 string[] correctArray;
-// arrayString = new string[] {"hello", "2", "world", ":-)"};
 
 Console.WriteLine("Введите элементы массива через пробел: ");
 
